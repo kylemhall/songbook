@@ -1,58 +1,91 @@
 {title:Shallow}
 {artist:Bradley Cooper & Lady Gaga}
 
+{define: D/F# base-fret 1 frets 2 x 0 2 3 2}
+
 {c:Intro}
-[Em] [D] [G] [C] [G] [D] 
-[Em] [D] [G] 
+[Em7] [D/F#] [G] [C] [G] [D/F#] 
+[Em7] [D/F#] [G] 
 
-[Em]Tell me [D]somethin’ [G]girl
-[C]Are you happy in this [G]modern [D]world?
-[Em]Or do [D]you need [G]more?
-[C]Is there somethin’ else you’re s[G]earchin’ fo[D]r?
+[Em7]Tell me [D/F#]somethin’ [G]girl
+[C]Are you happy in this [G]modern [D/F#]world?
+[Em7]Or do [D/F#]you need [G]more?
+[C]Is there somethin’ else you’re [G]searchin’ [D]for?
 
-{c:Pre-chorus}
-[Em]I’m [D]fall[G]ing
+{c:Refrain}
+[Em7]I’m [D/F#]fall[G]ing
 [C]In all the good times
-I [G]find mys[D]elf [Em]longin’ [D]for [G]change
+I [G]find mys[D]elf [Em7]longin’ [D/F#]for [G]change
 [C]And in the bad times I [G]fear [D]myself
 
 {c:Instrumental}
-[Em] [D] [G] [Em] [D] [G] 
+[Em7] [D/F#] [G] [Em] [D/F#] [G] 
 
-[Em]Tell me [D]something [G]boy
+[Em7]Tell me [D/F#]something [G]boy
 [C]Aren’t you tired tryin’ to [G]fill that [D]void?
-[Em]Or do [D]you need [G]more?
+[Em7]Or do [D/F#]you need [G]more?
 [C]Ain’t it hard keeping it [G]so hard[D]core?
 
-{c:Pre-chorus}
-[Em]I’m [D]fal[G]ling
+{c:Refrain}
+[Em7]I’m [D/F#]fall[G]ing
 [C]In all the good times
-I [G]find [D]myself [Em]longin’ [D]for [G]change
+I [G]find mys[D]elf [Em7]longin’ [D/F#]for [G]change
 [C]And in the bad times I [G]fear [D]myself
 
 {soc}
-[Am]I’m off the deep end, [D]watch as I dive in
+[Am]I’m off the deep end, [D/F#]watch as I dive in
 [G]I’ll never [D]meet the [Em]ground
-[Am]Crash through the surface, [D]where they can’t hurt us
-We’re [G]far from the [D]shallow [Em]now
+[Am]Crash through the surface, [D/F#]where they can’t hurt us
+We’re [G]far from the [D]shallow [Em7]now
 
-[Am]In the shallow, [D]shallow
-[G]In the sha[D]llow, shallow[Em]  
-[Am]In the shal[G]low, shal[D]low
-We’re [G]far from the [D]shallow [Em]now
+[Am]In the sha-ha-[D/F#]sha-ha-low
+[G]In the [D/F#]sha-ha-sha-la-[Em7]la-la-low
+[Am]In the sha-ha-[D/F#]sha-ha-ha-low
+We’re [G]far from the [D/F#]shallow [Em7]now
 {eoc}
 
-{c:Instrumental}
-[Bm] [D] [A] [Em] 
+{c:Bridge}
+[Bm] [D]
+[A] [Em] [Bm] [D] [A]
 
 {soc}
-[Am]I’m off the deep end, [D]watch as I dive in
+[Am]I’m off the deep end, [D/F#]watch as I dive in
 [G]I’ll never [D]meet the [Em]ground
-[Am]Crash through the surface, [D]where they can’t hurt us
-We’re [G]far from the [D]shallow [Em]now
+[Am]Crash through the surface, [D/F#]where they can’t hurt us
+We’re [G]far from the [D]shallow [Em7]now
 
-[Am]In the shallow, [D]shallow
-[G]In the sha[D]llow, shallow[Em]  
-[Am]In the shal[G]low, shal[D]low
-We’re [G]far from the [D]shallow [Em]now
+[Am]In the sha-ha-[D/F#]sha-ha-low
+[G]In the [D/F#]sha-ha-sha-la-[Em7]la-la-low
+[Am]In the sha-ha-[D/F#]sha-ha-ha-low
+We’re [G]far from the [D/F#]shallow [Em7]now
 {eoc}
+
+{sot}
+{c:Chords}
+  Em7  D/F#  G    C   Cadd9 D    Am   Em   Bm   A
+e|(3)--(2)--(3)--(0)--(0)---2----0----0----2----0----|
+B|-3----3----3----1----3----3----1----0----3----2----|
+G|-0----2----0----0----0----2----2----0----4----2----|
+D|-2----0----0----2----2----0----2----2----4----2----|
+A|-2---(0)--(2)---3----3---------0----2----2----0----|
+E|-0----2----3------------------------0--------------|
+
+{c:Intro}
+  Em7     D/F#  G                   C     Cadd9          G       D
+e|----------------|----------------|------------0---|----3---------------0h2p0---------|
+B|----3-----3---3-|----------------|----1-3-------3-|----3-------3-------------3-------|
+G|------0---2---0-|----------------|--0-----0-------|----0-------2-----------------2---|
+D|----------------|----------------|----------------|------------0---------------------|
+A|----------------|----------------|3---------3-----|----------------------------------|
+E|0-0-----2-----3-|----------------|----------------|3---------------------------------|
+  1 + 2 + 3 + 4 + etc.                               1 e + a 2 e + a 3 e +  a  4 e + a
+
+  Em7     D/F#  G
+e|----------------|----------------|
+B|----3-----3---3-|----------------|
+G|--0---0---2---0-|----------------|
+D|----------------|----------------|
+A|----------------|----------------|
+E|0-------2-----3-|----------------|
+  1 + 2 + 3 + 4 +
+{eot}
