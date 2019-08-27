@@ -1,6 +1,8 @@
 {title: Walking with a Ghost}
 {artist: Tegan & Sara}
 
+{textsize: 20}
+
 {define: F#m base-fret 9 frets x 1 3 3 2 x}
 {define: D base-fret 10 frets 1 3 3 2 x x}
 {define: E base-fret 12 frets 1 3 3 2 x x}
