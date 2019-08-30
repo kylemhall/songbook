@@ -1,8 +1,9 @@
 {title:Mess Is Mine}
 {artist:Vance Joy}
+{define: C/G base-fret 1 frets 3 3 2 0 1 0 fingers 3 4 2 0 1 0}
 
-[Intro]
-Em  C  G  G     x4
+{c:Intro}
+[Em][C][G][G] x4
 
 {c:Fingerpicking pattern}
 {sot}
@@ -15,10 +16,12 @@ A|-7--7--7--7\-3--3-------------------------|-------------3--3------------------
 E|-------------------3--3--3--3--3--3--3--3-|-0--0--0--0--------3--3--3--3--3--3--3--3--|
 {eot}
 
+{textsize: 18}
 [Em]Talking like we [C]used to [G]do
 [Em]It was always [C]me and y[G]ou
 [Em]Shaken up and s[C]hippin' o[G]ut
 [Em]Check me in and c[C]heck me o[G]ut
+{textsize: 12}
 
 [Em]Do you like walking [C]in the r[G]ain
 When you t[Em]hink of love, do you t[C]hink of [G]pain
@@ -30,7 +33,7 @@ When you t[Em]hink of love, do you t[C]hink of [G]pain
 
 This body is yours, this body is yours and mine
 [G]Hold on my d[C/G]arling
-This mess was yours, now your mess is m[Em)]ine
+This mess was yours, now your mess is m[Em]ine
 {eoc}
 
 {c:Interlude}
@@ -51,7 +54,7 @@ You k[Em]now you gave me [C]all that t[G]ime
 
 This body is yours, this body is yours and mine
 [G]Hold on my d[C/G]arling
-This mess was yours, now your mess is m[Em)]ine
+This mess was yours, now your mess is m[Em]ine
 {eoc}
 
 {c:Interlude}
