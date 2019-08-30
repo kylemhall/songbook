@@ -40,6 +40,7 @@ foreach my $file (@files) {
 
 my $cmd = "pdfunite page.filler ";
 my $previous_song;
+my $pages = 1;
 foreach my $song (@songs) {
     my $previous_song_pages = $previous_song ? $previous_song->{pages} : 0;
     if ( $previous_song && $previous_song_pages % 2 ) {    # Odd number of pages
@@ -48,12 +49,19 @@ foreach my $song (@songs) {
         }
         else { # If this song is multiple pages, start on a fresh left-hand page
             $cmd .= qq{page.filler "$song->{pdf}" };
+            $pages++; # Add one for the filler page
         }
     }
     else {     # Even number of pages
         $cmd .= qq{"$song->{pdf}" };
     }
     $previous_song = $song;
+
+    # Regenerate the pdf with the corrected page numbers
+    unlink $song->{pdf};
+    qx{chordpro -p=$pages "$song->{chordpro}" -o="$song->{pdf}"};
+    say qq{chordpro -p=$pages "$song->{chordpro}" -o="$song->{pdf}"};
+    $pages += $song->{pages};
 }
 $cmd .= qq{ songbook.pdf};
 
