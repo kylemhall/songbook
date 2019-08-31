@@ -67,7 +67,7 @@ $cmd .= qq{ songbook.pdf};
 
 qx{$cmd};
 
-#unlink $_->{pdf} for @songs;
+unlink $_->{pdf} for @songs;
 
 say "Songbook compilation complete!";
 say "File: songbook.pdf";
