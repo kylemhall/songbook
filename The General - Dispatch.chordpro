@@ -1,6 +1,10 @@
 {title:The General}
 {artist:Dispatch}
 
+{define: F5 base-fret 1 frets 1 3 3 x x x}
+{define: F#5 base-fret 2 frets 1 3 3 x x x}
+{define: G5 base-fret 3 frets 1 3 3 x x x}
+
 {c:Intro}
 {sot}
 e|---------------------------X-X-1-------------------------------3-3---|
