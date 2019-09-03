@@ -1,5 +1,5 @@
 {title:Lumina}
-{artist:Joan Osborne}
+{subtitle:Joan Osborne}
 
 {define: C base-fret 0 frets x 3 2 x x x}
 {define: G base-fret 0 frets 3 3 0 x x x}
