@@ -1,49 +1,55 @@
 {title:The General}
 {subtitle:Dispatch}
 {textsize: 8.5}
-{define: F5 base-fret 1 frets 1 3 3 x x x}
-{define: F#5 base-fret 2 frets 1 3 3 x x x}
-{define: G5 base-fret 3 frets 1 3 3 x x x}
+{define: Bbm base-fret 1 frets 1 1 3 3 2 1}
+{define: F base-fret 1 frets 1 3 3 2 1 1}
+{define: Cm base-fret 3 frets 3 3 5 5 4 3}
+{define: G base-fret 3 frets 3 5 5 4 3 3}
+{define: Ebm/G base-fret 6 frets 6 6 8 8 7 6}
+{define: A#/F base-fret 6 frets 6 8 8 7 6 6}
 
-[Bb]There was decorated general with a [F]heart of gold
-[Cm]That likened him to all [Gm]the stories he told
-Of[Eb] past battles won and lost and[Bb] legends of old
+{define: Gb base-fret 2 frets 2 4 4 3 2 2}
+{define: Gm7 base-fret 1 frets x x 3 3 3 3}
+
+[Bbm]There was decorated general with a [F]heart of gold
+[Cm]That likened him to all [G]the stories he told
+Of[Ebm/G] past battles won and lost and[A#/F] legends of old
 [F]A seasoned veteran in his own time
-[Bb]On the battlefield he gained [F]respect for fame
-[Cm]With many medals of bravery and [Gm]stripes to his name
-He[Eb] grew a beard as soon as a he cou[Bb]ld to cover the scars on his face
+[Bbm]On the battlefield he gained [F]respect for fame
+[Cm]With many medals of bravery and [G]stripes to his name
+He[Ebm/G] grew a beard as soon as a he cou[A#/F]ld to cover the scars on his face
 [F]And always urged his men on
-B[Bb]ut on the eve of great battle w[F]ith the infantry in dream
-The[Cm] old general tossed in his sleep [Gm]a lesson with its meaning
-H[Eb]e awoke from the night to[Bb] tell what he had seen
+B[Bbm]ut on the eve of great battle w[F]ith the infantry in dream
+The[Cm] old general tossed in his sleep [G]a lesson with its meaning
+H[Ebm/G]e awoke from the night to[A#/F] tell what he had seen
 [F]And walked slowly out his tent
-[Bb]All the men held tall with th[F]eir chests in the air
-[Cm]With the courage in their blood and t[Gm]he fire in their stare
-And[Eb] it was a grey morning and they[Bb] all wondered how they would fare
+[Bbm]All the men held tall with th[F]eir chests in the air
+[Cm]With the courage in their blood and t[G]he fire in their stare
+And[Ebm/G] it was a grey morning and they[A#/F] all wondered how they would fare
 T[F]ill the old general told them to go home
 
 He said...
 {soc}
-I[Bb] have s[F]een the ot[Cm]hers an[Gm]d i have dis[Eb]covered
-That this fi[Bb]ght is not worth fig[F]hting
-A[Bb]nd i've[F] seen their mo[Cm]thers and [Gm]i will no ot[Eb]her
-To follo[Bb]w me where i'm [F]going, so...
-T[Bb]ake a s[F]hower and shin[Cm]e your shoes
-Y[Gm]ou got no time to[Eb] lose
-You are yo[Bb]ung men you must be living [F] 
+I[Bbm] have s[F]een the ot[Cm]hers an[G]d i have dis[Ebm/G]covered
+That this fi[A#/F]ght is not worth fig[F]hting
+A[Bbm]nd i've[F] seen their mo[Cm]thers and [G]i will no ot[Ebm/G]her
+To follo[A#/F]w me where i'm [F]going, so...
+T[Bbm]ake a s[F]hower and shin[Cm]e your shoes
+Y[G]ou got no time to[Ebm/G] lose
+You are yo[A#/F]ung men you must be living [F] 
 
-I[Bb] have s[F]een the ot[Cm]hers an[Gm]d i have dis[Eb]covered
-That this fi[Bb]ght is not worth fig[F]hting
-A[Bb]nd i've[F] seen their mo[Cm]thers and [Gm]i will no ot[Eb]her
-To follo[Bb]w me where i'm [F]going, so...
-T[Bb]ake a s[F]hower and shin[Cm]e your shoes
-Y[Gm]ou got no time to[Eb] lose
-You are yo[Bb]ung men you must be living [F] 
+I[Bbm] have s[F]een the ot[Cm]hers an[G]d i have dis[Ebm/G]covered
+That this fi[A#/F]ght is not worth fig[F]hting
+A[Bbm]nd i've[F] seen their mo[Cm]thers and [G]i will no ot[Ebm/G]her
+To follo[A#/F]w me where i'm [F]going, so...
+T[Bbm]ake a s[F]hower and shin[Cm]e your shoes
+Y[G]ou got no time to[Ebm/G] lose
+You are yo[A#/F]ung men you must be living [F] 
 {eoc}
 
-  [F5]   [F#5]   [G5]
+[F] [Gb] [G] [Gm7] [Gm7]
 Go now you are forgiven
-  [G5]   [F#5]   [F5]
+[F] [Gb] [G] [Gm7] [Gm7]
 
 But the men stood fast with their guns on their shoulders
 Not knowing what to do with contradicting orders
@@ -55,45 +61,50 @@ The old general was left with his own words echoing in his head
 He then prepared to fight
 
 {soc}
-I[Bb] have s[F]een the ot[Cm]hers an[Gm]d i have dis[Eb]covered
-That this fi[Bb]ght is not worth fig[F]hting
-A[Bb]nd i've[F] seen their mo[Cm]thers and [Gm]i will no ot[Eb]her
-To follo[Bb]w me where i'm [F]going, so...
-T[Bb]ake a s[F]hower and shin[Cm]e your shoes
-Y[Gm]ou got no time to[Eb] lose
-You are yo[Bb]ung men you must be living [F] 
+I[Bbm] have s[F]een the ot[Cm]hers an[G]d i have dis[Ebm/G]covered
+That this fi[A#/F]ght is not worth fig[F]hting
+A[Bbm]nd i've[F] seen their mo[Cm]thers and [G]i will no ot[Ebm/G]her
+To follo[A#/F]w me where i'm [F]going, so...
+T[Bbm]ake a s[F]hower and shin[Cm]e your shoes
+Y[G]ou got no time to[Ebm/G] lose
+You are yo[A#/F]ung men you must be living [F] 
 
-I[Bb] have s[F]een the ot[Cm]hers an[Gm]d i have dis[Eb]covered
-That this fi[Bb]ght is not worth fig[F]hting
-A[Bb]nd i've[F] seen their mo[Cm]thers and [Gm]i will no ot[Eb]her
-To follo[Bb]w me where i'm [F]going, so...
-T[Bb]ake a s[F]hower and shin[Cm]e your shoes
-Y[Gm]ou got no time to[Eb] lose
-You are yo[Bb]ung men you must be living [F] 
+I[Bbm] have s[F]een the ot[Cm]hers an[G]d i have dis[Ebm/G]covered
+That this fi[A#/F]ght is not worth fig[F]hting
+A[Bbm]nd i've[F] seen their mo[Cm]thers and [G]i will no ot[Ebm/G]her
+To follo[A#/F]w me where i'm [F]going, so...
+T[Bbm]ake a s[F]hower and shin[Cm]e your shoes
+Y[G]ou got no time to[Ebm/G] lose
+You are yo[A#/F]ung men you must be living [F] 
 {eoc}
 
-[F5][F#5][G5]
+[F] [Gb] [G] [Gm7] [Gm7]
 Go now you are forgiven
-[G5][F#5][F5]
+[F] [Gb] [G] [Gm7] [Gm7]
 
 
 
 {textsize: 12}
-{c:Intro}
+
+{c:Chords}
 {sot}
-e|---------------------------X-X-1-------------------------------3-3---|
-B|---------------------------3-3-1-------------------------------3-3---|
-G|---------------------------3-3-2-------------------------------3-3---|
-D|---------------------------3-3-3--3---3^5^3-----3--------------4-4---|
-A|-----------1---1-------1---1-1-3------------5------5---3\1/3---4-4---|
-E|---2---3-----------3-------X-X-1-------------------------------3-3---|
+Power chords:
+      E A D G B e
+Bbm:  x 1 3 3 x x
+F:    1 3 3 x x x
+Cm:   x 3 5 5 x x
+G:    3 5 5 x x x
+Ebm/G x 6 8 8 x x
+A#/F: 6 8 8 x x x
+Gm7:  x x 3 3 3 3
 
-     Gm                  Eb   Bb      F         x2
-e|---3-------------------X-X--6-6-6-6-\-1-1-1-1-1-|
-B|---3------------------/8-8--6-6-6-6-\-1-1-1-1-1-|
-G|---3------------------/8-8--7-7-7-7-\-2-2-2-2-2-|
-D|---5------------------/8-8--8-8-8-8-\-3-3-3-3-3-|
-A|---5----------1^3^1---/6-6--8-8-8-8-\-3-3-3-3-3-|
-E|---3---2---3-----------X-X--6-6-6-6-\-1-1-1-1-1-|
+Bar Chords:
+       E A D G B e
+Bbm:   1 1 3 3 2 1
+F:     1 3 3 2 1 1
+Cm:    3 3 5 5 4 3
+G:     3 5 5 4 3 3
+Ebm/G: 6 6 8 8 7 6
+A#/F:  6 8 8 7 6 6
+Gm7:   x x 3 3 3 3
 {eot}
-
