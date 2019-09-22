@@ -1,27 +1,14 @@
 {title:Mess Is Mine}
 {subtitle:Vance Joy}
 {define: C/G base-fret 1 frets 3 3 2 0 1 0 fingers 3 4 2 0 1 0}
-
+{textsize: 12}
 {c:Intro}
-[Em][C][G][G] x4
+[Em][C][G][G] [Em][C][G][G] [Em][C][G][G] [Em][C][G][G]
 
-{c:Fingerpicking pattern}
-{sot}
-   Em          C     G                        Em          C     G
-e|------------------------------------------|-------------------------------------------|
-B|------8------5--5-------0-----------0-----|------0------1--1-------0-----------0------|
-G|-0-------0--(0)(0)-0-------0---0-------0--|-0-------0--(0)(0)-0-------0---0-------0---|
-D|------------------------------------------|-------------------------------------------|
-A|-7--7--7--7\-3--3-------------------------|-------------3--3--------------------------|
-E|-------------------3--3--3--3--3--3--3--3-|-0--0--0--0--------3--3--3--3--3--3--3--3--|
-{eot}
-
-{textsize: 18}
 [Em]Talking like we [C]used to [G]do
 [Em]It was always [C]me and y[G]ou
 [Em]Shaken up and s[C]hippin' o[G]ut
 [Em]Check me in and c[C]heck me o[G]ut
-{textsize: 12}
 
 [Em]Do you like walking [C]in the r[G]ain
 When you t[Em]hink of love, do you t[C]hink of [G]pain
@@ -29,20 +16,24 @@ When you t[Em]hink of love, do you t[C]hink of [G]pain
 [Em]I will choose what [C]I believ[G]e
 
 {soc}
-[G]Hold on, dar[C/G]ling
-
-This body is yours, this body is yours and mine
-[G]Hold on my d[C/G]arling
-This mess was yours, now your mess is m[Em]ine
+[G]Hold on, dar[C/G]ling. This body is yours, this body is yours and mine
+[G]Hold on my d[C/G]arlin. This mess was yours, now your mess is m[Em]ine
 {eoc}
 
 {c:Interlude}
-[Em][C][G][G] x4
+[Em][C][G][G] [Em][C][G][G] [Em][C][G][G] [Em][C][G][G]
 
 [Em]See you in the m[C]arket p[G]lace
 [Em]Walking around at [C]8 A[G]M
 [Em]Got two hours bef[C]ore my fli[G]ght
 [Em]Luck be on my s[C]ide ton[G]ight
+
+
+
+
+
+
+
 
 You're the r[Em]eason that I f[C]eel so st[G]rong
 The r[Em]eason that I'm h[C]anging o[G]n
@@ -50,11 +41,8 @@ You k[Em]now you gave me [C]all that t[G]ime
 [Em]Oh, did I give enou[C]gh of m[G]ine?
 
 {soc}
-[G]Hold on, dar[C/G]ling
-
-This body is yours, this body is yours and mine
-[G]Hold on my d[C/G]arling
-This mess was yours, now your mess is m[Em]ine
+[G]Hold on, dar[C/G]ling. This body is yours, this body is yours and mine
+[G]Hold on my d[C/G]arlin. This mess was yours, now your mess is m[Em]ine
 {eoc}
 
 {c:Interlude}
@@ -79,19 +67,3 @@ This mess was yours, now your mess is m[Em]ine
 [Em] [C] [G] [G]Your mess is mine
 [Em] [C] [G] [G]
 [Em] [C] [G]Your mess is mine
-
-{c:Strumming Patters}
-{sot}
-{c:Main Pattern}
-v v^ ^v^
-1 & 2 &
-
-{c:Intro/Verse/Interlude/Outro}
-v v
-1 &
-
-{c:Whole EM C G Sequence}
-v v^ ^v^v v v v^ ^v^v v^ ^v^
-1 & 2 & 3 & 4 & 5 & 6 & 7 &
-{eot}
- 
