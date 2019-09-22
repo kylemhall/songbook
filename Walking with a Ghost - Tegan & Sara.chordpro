@@ -1,7 +1,7 @@
 {title: Walking with a Ghost}
 {subtitle: Tegan & Sara}
 
-{textsize: 20}
+{textsize: 14}
 
 {define: F#m base-fret 9 frets x 1 3 3 2 x}
 {define: D base-fret 10 frets 1 3 3 2 x x}
@@ -10,9 +10,8 @@
 {define: A base-fret 5 frets 1 3 3 2 x x}
 {define: B base-fret 7 frets 1 3 3 2 x x}
 
-Intro F#m  D  E  D
+[F#m]  [D]  [E]  [D]
 
-{c:Pre-Chorus}
 No [F#m]matter which [D]way you [E]go  [D]  
 No [F#m]matter which [D]way you [E]stay[D], you're out of
 My [F#m]mind, out of [D]my mind,[E] out[D] of my mind
@@ -25,7 +24,6 @@ Out of[F#m] my mind     [D]        [E]    [D]
 [C#m]please,[A] please don't i[B]nsist [A] 
 {eoc}
 
-{c:Pre-Chorus}
 No [F#m]matter which [D]way you [E]go  [D]  
 No [F#m]matter which [D]way you [E]stay[D], you're out of
 My [F#m]mind, out of [D]my mind,[E] out[D] of my mind
@@ -38,7 +36,8 @@ Out of[F#m] my mind     [D]        [E]    [D]
 [C#m]please,[A] please don't i[B]nsist [A] 
 {eoc}
 
-{c:Pre-Chorus}
+
+
 No [F#m]matter which [D]way you [E]go  [D]  
 No [F#m]matter which [D]way you [E]stay[D], you're out of
 My [F#m]mind, out of [D]my mind,[E] out[D] of my mind
