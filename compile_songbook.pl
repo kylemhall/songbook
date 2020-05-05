@@ -5,10 +5,17 @@ use feature qw( say );
 use Modern::Perl;
 
 use Data::Dumper;
+use File::stat;
 
 opendir( DIR, "." );
-my @files = grep ( /\.chordpro$/, readdir( DIR ) );
+my @files = grep ( /\.chordpro$/, readdir(DIR) );
 closedir( DIR );
+
+@files = sort {
+    qx{ git log --format=%aI "$a" | tail -1 }
+    cmp
+    qx{ git log --format=%aI "$b" | tail -1 }
+} @files;
 
 my @songs;
 foreach my $file ( @files ) {
