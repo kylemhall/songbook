@@ -7,7 +7,12 @@ use Modern::Perl;
 use Data::Dumper;
 use File::stat;
 
-opendir( DIR, "." );
+my $chordpros_dir = $ENV{'CHORDPROS_DIR'} || '.';
+my $songbook_dir = $ENV{'SONGBOOK_DIR'} || '.';
+
+qx{cd $chordpros_dir} unless $chordpros_dir eq '.';
+
+opendir( DIR, $chordpros_dir );
 my @files = grep ( /\.chordpro$/, readdir(DIR) );
 closedir( DIR );
 
@@ -46,7 +51,8 @@ foreach my $file ( @files ) {
 @songs = sort { $a->{dt} cmp $b->{dt} } @songs;
 
 my @toc;
-my $cmd = "pdfunite toc.pdf page.filler ";
+my $filler = q{};
+my $cmd = q{};
 my $previous_song;
 my $pages = 1;
 foreach my $song ( @songs ) {
@@ -84,11 +90,20 @@ $toc_html .= "</pre></body></html>";
 open(FH, '>', 'toc.html') or die $!;
 print FH $toc_html;
 close(FH);
-qx{htmldoc --webpage -f toc.pdf toc.html};
+qx{htmldoc --footer . --webpage -f toc.pdf toc.html};
+my $toc_pages = qx{pdftk "toc.pdf" dump_data | grep NumberOfPages};
+$toc_pages =~ s/NumberOfPages://;
+$filler = $toc_pages % 2 ? "page.filler page.filler" : "page.filler";
 
+$cmd = "pdfunite toc.pdf $filler $cmd";
+say "CMD: $cmd";
 qx{$cmd};
-
-unlink $_->{pdf} for @songs;
 
 say "Songbook compilation complete!";
 say "File: songbook.pdf";
+
+qx{ mv songbook.pdf $songbook_dir/songbook.pdf } unless $songbook_dir eq '.';
+
+unlink $_->{pdf} for @songs;
+unlink "toc.html", "toc.pdf";
+qx{ cd - } unless $chordpros_dir eq '.';
